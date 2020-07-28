@@ -1,0 +1,46 @@
+body {
+	margin: 0;
+	background-color: #ffffff;
+}
+
+.page-header{
+	margin-top: 25px;
+}
+
+* {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.thead {
+	background-color: #f7f7f7;
+}
+
+.btn-success, .btn-info, .btn-primary{
+	width: 8em;
+}
+
+.btn-enviar{
+	width: 8em;
+	background-color: #cc9933;
+	border: #cc9933;
+	color: #ffffff;
+}
+
+.btn-enviar:hover{
+	background-color: #cc9933;
+	opacity:0.8;
+	color: #ffffff;
+}
+
+.mg-selected{
+	background-color: #2f7fae;
+	color: #ffffff;
+}
+
+.footer{
+	margin-top: 10em;
+}

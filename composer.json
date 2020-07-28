@@ -1,0 +1,16 @@
+{
+    "name": "aadev/meuslocais",
+    "description": "Aplicação Meus Locais - Teste IbiJus",
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Antônio Abrantes",
+            "email": "antonio.abrantes.dev@gmail.com"
+        }
+    ],
+    "require": {
+		"php": ">=5.4",
+        "jarouche/viacep": "^1.2"
+	}
+}
